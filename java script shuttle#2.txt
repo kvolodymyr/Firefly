@@ -1,0 +1,9 @@
+курсы java script shuttle#2
+
+Тема занятия: *Асинхронный JavaScript*
+До занятия нужно:
+- почитать, что это такое :slightly_smiling_face:
+- установить последнюю версию Node.JS 
+- установить Visual Studio Code в качестве IDE.
+- установить Git, завести аккаунт в BitBucket
+- trello (ведение проекта)
